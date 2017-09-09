@@ -1,8 +1,8 @@
 
 ### Planetchain Task Lists
 
-- [] twitter, facebook, wechat, e.t.c social contacts
-- [] planetchain website
+- [ ] twitter, facebook, wechat, e.t.c social contacts
+- [ ] planetchain website
      Develop planetchain.io website according to protocol.ai and ipfs.io 
      Use hugo to create static website
      website source code: https://github.com/planetchain/website
